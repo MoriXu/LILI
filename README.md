@@ -1,4 +1,26 @@
-# LILI
-Lili is a narrative interactive website built using HTML & p5.js, where viewers can engage with the webpage by switching to Lili's (the cat's) perspective.
+# PROJECT TITLE
 
-# change latter
+## Short Description
+*What and why.*
+
+## Concept / Intent
+*Describe the idea or artistic context.*
+##Technology Used
+*How did you make it, what libraries etc used*
+
+## How to Run / Install
+*Step-by-step instructions.*
+
+## Requirements
+*Tech stack, browser, OS, libs.*
+
+## Screenshots / Media
+*Include in-action visuals.*
+
+## Credits / Acknowledgements
+*Who made it, references.*
+##License
+*What license is it made under, if any?* 
+
+## Contact / Links
+*GitHub repo link, website, demo URL.*
