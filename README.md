@@ -7,9 +7,13 @@ Lili is a narrative interactive website built using HTML & p5.js. Visitors can e
 
 ## Concept / Intent
 *The inspiration for this project stems from two distinct elements. Thematically, it arose from my pet cat back home—a delightful feline named Lili. I've always wondered what her world looks like. Lili is a cat with a mind of her own: she arranges her toys neatly by the shoe cupboard and can spend entire days perched on the windowsill gazing at the sky. I thought it would be an intriguing experience to attempt a day through her perspective.*
+
 *Additionally, in terms of technical presentation, I recalled interactive websites discovered during research for the ‘living poem’ project. By utilising HTML and p5.js to interweave narrative and interaction, I believe such a website could effectively facilitate identity swapping between humans and cats while providing a sense of ‘temporality’.*
+
 *Cats possess a visual system markedly different from humans. Their colour perception resembles red-green colour blindness, with night vision far superior to ours. Their field of vision is wider yet less sensitive, akin to nearsightedness. Additionally, they exhibit extreme sensitivity to rapidly moving objects. These characteristics have been translated into distinct visual languages within my project's interactions.*
+
 *Colour palettes prioritise blue, green, and yellow – hues to which cats exhibit heightened sensitivity. Stylistically, a hand-drawn aesthetic is employed to convey cats' unrestrained, “childlike” nature.*
+
 *The publication “Color Vision in Cats” explores how this species' colour discrimination is significantly influenced by perceptual dominance. Primarily, red and green hues achieve luminance matching, with this information utilised to regulate brightness effects. Whilst cats can distinguish certain colours, their persistent tendency to track luminance makes extracting true colour perception challenging.*
 
 ## Technology Used
