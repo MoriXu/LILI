@@ -1,5 +1,6 @@
 # LILI
-*08/01/2025   Author: Zhuangqi Xu*
+*08/01/2025  
+Author: Zhuangqi Xu*
 
 ## Short Description
 *Lili is a narrative interactive website built using HTML & p5.js. Visitors can engage with the webpage by switching to Lili's (the cat's) perspective. The experience records the duration of interaction, with the project aiming to offer a unique day's experience through a feline viewpoint.*
@@ -25,13 +26,21 @@ The publication “Color Vision in Cats” explores how this species' colour dis
 
 ## Credits / Acknowledgements
 *This project utilised the web development framework from https://kellymao.com/physics-and-parks/*
+
 *Kang, I., Reem, R. E., Kaczmarowski, A. L. and Malpeli, J. G. (2009) 'Contrast sensitivity of cats and humans in scotopic and mesopic conditions', Journal of Neurophysiology, 102(2), pp. 831–840. doi: 10.1152/jn.90641.2008. Available at: https://journals.physiology.org/doi/full/10.1152/jn.90641.2008 (Accessed: 30 December 2025).*
+
 *Uniqo Lab (2025) 'Peppy Cat: Game For Cats' [Mobile app]. Available at: https://apps.apple.com/cn/app/peppy-cat-game-for-cats/id1232195731 (Accessed: 8 January 2026).*
+
 *c7.pm  'c7.pm' [Website]. Available at: https://c7.pm/?catx=881&caty=128&catdx=508&catdy=641 (Accessed: 8 January 2026).*
+
 *Mao, K. (2020) 'Physics and Parks' [Website]. Available at: https://kellymao.com/physics-and-parks/ (Accessed: 8 January 2026).*
+
 *adryd  'adryd.com' [Website]. Available at: https://adryd.com/ (Accessed: 8 January 2026).*
+
 *Beary.dsgn (2025) 'Cat Paw Font' [Font]. Available at: https://www.fontspace.com/cat-paw-font-f120389 (Accessed: 8 January 2026).*
+
 *Shiffman, D. (2022) 'The Coding Train' [Website]. Available at: https://thecodingtrain.com/ (Accessed: 8 January 2026).*
+
 *Warner, M. (2025) 'Davy Denduyver’s new restaurant branding includes over 100 charcoal drawings of foodie imagery' [Website]. Available at: https://www.itsnicethat.com/articles/davy-denduyver-mina-graphic-design-project-040225 (Accessed: 8 January 2026).*
 
 ##License
